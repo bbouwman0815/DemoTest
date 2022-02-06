@@ -1,0 +1,11 @@
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\SharedLibraryDemo.dll.config
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\SharedLibraryDemo.dll
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\SharedLibraryDemo.pdb
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\EntityFramework.dll
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\EntityFramework.xml
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\obj\Debug\SharedLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\obj\Debug\SharedLibraryDemo.csproj.CopyComplete
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\obj\Debug\SharedLibraryDemo.dll
+C:\Users\cupid\source\VSrepos\SharedLibraryDemo\obj\Debug\SharedLibraryDemo.pdb

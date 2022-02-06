@@ -1,0 +1,6 @@
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\bin\Debug\CapstoneDemoDatabase.dacpac
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\bin\Debug\CapstoneDemoDatabase.dll
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\bin\Debug\CapstoneDemoDatabase.pdb
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\obj\Debug\CapstoneDemoDatabase.sqlprojAssemblyReference.cache
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\obj\Debug\CapstoneDemoDatabase.dll
+C:\Users\cupid\source\VSrepos\CapstoneDemoDatabase\obj\Debug\CapstoneDemoDatabase.pdb
